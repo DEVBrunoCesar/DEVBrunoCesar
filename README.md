@@ -54,7 +54,7 @@
 ## 🎧 Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/21q6zoxrzq55odgdg3r7xcesq">
+  <a href="https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
   </a>
 </div>
