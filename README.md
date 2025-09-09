@@ -22,6 +22,7 @@
 * I'm passionate about Java, offensive security, and reverse engineering.
 * I create tools and content for both Developers and Pentesters.
 
+<div align="center">
 **Mobile / Frontend**
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
@@ -46,6 +47,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+</div>
 
 ---
 
