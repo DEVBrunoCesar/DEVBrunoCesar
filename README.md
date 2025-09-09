@@ -22,10 +22,6 @@
 * I'm passionate about Java, offensive security, and reverse engineering.
 * I create tools and content for both Developers and Pentesters.
 
-<div align="center">
-## My Tech Stack
-</div>
-
 **Mobile / Frontend**
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
@@ -63,4 +59,7 @@
   </a>
 </div>
 </details>
+
+<div align="center">
 <a href="https://www.twitch.tv/rabbitfo0t/about" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/twitch/status/clubedojava"> </a> 
+</div>
