@@ -22,7 +22,9 @@
 * I'm passionate about Java, offensive security, and reverse engineering.
 * I create tools and content for both Developers and Pentesters.
 
+<div align="center">
 ## My Tech Stack
+</div>
 
 **Mobile / Frontend**
 
@@ -51,7 +53,9 @@
 
 ---
 
+<div align="center">
 ## 🎧 Spotify
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU">
