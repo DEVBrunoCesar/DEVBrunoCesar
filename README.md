@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/yogesh174/yogesh174/master/img.gif" width="200"/>
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/yogesh174/yogesh174/master/img.gif" width="200"/>
   <h1>Bruno Cesar</h1>
   <p><strong>💻 Full Stack & Mobile Developer JR.</strong></p>
 
@@ -14,6 +13,7 @@
 </div>
  
 ---
+
 <div align="center">
 
 ## About Me
